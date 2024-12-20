@@ -16,8 +16,11 @@ Responsive Design: Optimized for both desktop and mobile devices.
 Custom Styling: A modern, visually appealing UI built with CSS.
 
 Technologies Used
+
 HTML: Structure of the application.
+
 CSS: Styling for a sleek and responsive design.
+
 JavaScript: Core logic for QR code decoding using the html5-qrcode library.
 
 How to Use
